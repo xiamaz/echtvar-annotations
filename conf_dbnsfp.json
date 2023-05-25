@@ -1,0 +1,49 @@
+[
+    {
+        "field": "Polyphen2_HDIV_score",
+        "alias": "dbsnfp_Polyphen2_HDIV_score",
+        "multiplier": 1000000
+    },
+    {
+        "field": "Polyphen2_HDIV_pred",
+        "alias": "dbsnfp_Polyphen2_HDIV_pred"
+    },
+    {
+        "field": "SIFT_score",
+        "alias": "dbsnfp_SIFT_score",
+        "multiplier": 1000000,
+        "missing_value": 999
+    },
+    {
+        "field": "SIFT_pred",
+        "alias": "dbsnfp_SIFT_pred"
+    },
+    {
+        "field": "MutationTaster_score",
+        "alias": "dbsnfp_MutationTaster_score",
+        "multiplier": 1000000
+    },
+    {
+        "field": "MutationTaster_pred",
+        "alias": "dbsnfp_MutationTaster_pred"
+    },
+    {
+        "field": "REVEL_score",
+        "alias": "dbsnfp_REVEL_score",
+        "multiplier": 1000000
+    },
+    {
+        "field": "BayesDel_addAF_score",
+        "alias": "dbsnfp_BayesDel_addAF_score",
+        "multiplier": 1000000
+    },
+    {
+        "field": "BayesDel_addAF_pred",
+        "alias": "dbsnfp_BayesDel_addAF_pred"
+    },
+    {
+        "field": "CADD_phred",
+        "alias": "dbsnfp_CADD_phred",
+        "multiplier": 1000000
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+          "field": "ADA_SCORE",
+              "alias": "dbscsnv_ADA_SCORE",
+                  "multiplier": 1000000
+                    },
+                      {
+                            "field": "RF_SCORE",
+                                "alias": "dbscsnv_RF_SCORE",
+                                    "multiplier": 1000000
+                                      }
+]
