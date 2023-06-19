@@ -1,12 +1,11 @@
 [
     {
-          "field": "ADA_SCORE",
-              "alias": "dbscsnv_ADA_SCORE",
-                  "multiplier": 1000000
+          "field": "SpliceAI_score",
+              "alias": "SpliceAI_score",
+                  "multiplier": 100
                     },
-                      {
-                            "field": "RF_SCORE",
-                                "alias": "dbscsnv_RF_SCORE",
-                                    "multiplier": 1000000
-                                      }
+    {
+          "field": "SpliceAI_type",
+              "alias": "SpliceAI_type"
+    }
 ]

@@ -1,0 +1,12 @@
+[
+    {
+        "field": "CADD_RawScore",
+        "alias": "CADD_RawScore",
+        "multiplier": 1000000
+    },
+    {
+        "field": "CADD_PHRED",
+        "alias": "CADD_PHRED",
+        "multiplier": 1000
+    }
+]

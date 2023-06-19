@@ -1,12 +1,12 @@
 [
-        {"field": "AC", "alias": "gnomad_ac"},
-        {"field": "AN", "alias": "gnomad_an"},
-        {"field": "Hom", "alias": "gnomad_hom"},
-        {"field": "AF", "alias": "gnomad_af", multiplier: 2000000},
+        {"field": "AC", "alias": "gnomadex_ac"},
+        {"field": "AN", "alias": "gnomadex_an"},
+        {"field": "Hom", "alias": "gnomadex_hom"},
+        {"field": "AF", "alias": "gnomadex_af", multiplier: 2000000},
 
-        {"field": "AC_POPMAX", "alias": "gnomad_popmax_ac"},
-        {"field": "AN_POPMAX", "alias": "gnomad_popmax_an"},
-        {"field": "AF_POPMAX", "alias": "gnomad_popmax_af", multiplier: 2000000},
+        {"field": "AC_POPMAX", "alias": "gnomadex_popmax_ac"},
+        {"field": "AN_POPMAX", "alias": "gnomadex_popmax_an"},
+        {"field": "AF_POPMAX", "alias": "gnomadex_popmax_af", multiplier: 2000000},
 
-        {"field": "FILTER", "alias": "gnomad_filter", "missing_string": "PASS"},
+        {"field": "FILTER", "alias": "gnomadex_filter", "missing_string": "PASS"},
 ]
